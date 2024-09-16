@@ -45,4 +45,4 @@ Nhóm khách hàng **Champions** chiếm tới hơn 60% tổng doanh thu, thấy
 | Hibernating customers | Last purchase was long back, low spenders and low number of orders. | Offer other relevant products and special discounts. Recreate brand value. |
 | Lost customers | Lowest recency, frequency and monetary scores. | Revive interest with reach out campaign, ignore otherwise. |
 
-Chi tiết bài làm tại đây [RFM analysis](
+Chi tiết bài làm tại đây [RFM analysis](https://github.com/HienPham2k1/Python/blob/31dcd9f4bf86ed902776b28bb702bd60a2f7e058/Ph%E1%BA%A1m_Th%E1%BB%8B_Thu_Hi%E1%BB%81n_RFM_project.ipynb)
